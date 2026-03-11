@@ -3,7 +3,7 @@ import base64
 
 # ── CONFIGURACIÓN ────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Cuadro de Mandos · Operadoras",
+    page_title="Cuadro de Mando · Operadoras",
     page_icon="📊",
     layout="centered"
 )
